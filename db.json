@@ -1,0 +1,32 @@
+{
+  "cursos": [
+    {
+      "id": 1,
+      "titulo": "React desde cero",
+      "image": "https://i.ytimg.com/vi/x_JbIl9SS0E/maxresdefault.jpg",
+      "precio": 25,
+      "profesor": "Beto quiroga"
+    },
+    {
+      "id": 2,
+      "titulo": "Vuejs desde cero",
+      "image": "https://i.ytimg.com/vi/x_JbIl9SS0E/maxresdefault.jpg",
+      "precio": 30,
+      "profesor": "Jhonatan Mircha"
+    },
+    {
+      "id": 3,
+      "titulo": "Go desde cero",
+      "image": "https://www.ma-no.org/cache/galleries/contents-1790/460-300/vuejs.jpg",
+      "precio": 40,
+      "profesor": "Alexis Lozada"
+    },
+    {
+      "id": 4,
+      "titulo": "Vuejs desde cero",
+      "image": "https://www.ma-no.org/cache/galleries/contents-1790/460-300/vuejs.jpg",
+      "precio": 25,
+      "profesor": "Beto quiroga"
+    }
+  ]
+}
